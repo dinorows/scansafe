@@ -1,0 +1,48 @@
+{
+  "name": "scansafe",
+  "version": "1.0.1",
+  "description": "Scans source code packages for potential javascript vulnerabilities listed as strings or regular expressions.",
+  "main": "gulpfile.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dinorows/scansafe.git"
+  },
+  "keywords": [
+    "javascript scan",
+    "static scan",
+    "vulnerability",
+	"vulnerabilities",
+	"unsafe"
+  ],
+  "author": {
+    "name": "Dino Konstantopoulos",
+    "email": "dinorows@gmail.com"
+  },
+  "license": "Apache2",
+  "bugs": {
+    "url": "https://github.com/dinorows/scansafe/issues"
+  },
+  "homepage": "https://github.com/dinorows/scansafe",
+  "dependencies": {
+    "gulp": "^3.9.1",
+	"yargs": "^7.0.2",
+	"event-stream": "^3.3.4",
+	"gulp-contains2": "^1.1.0",
+	"q": "^1.5.0"
+  },
+  "_id": "scansafe@1.0.0",
+  "_from": "scansafe@*",
+  "_npmVersion": "2.14.12",
+  "_nodeVersion": "4.3.2",
+  "_npmUser": {
+    "name": "dinorows",
+    "email": "dinorows@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "dinorows",
+      "email": "dinorows@gmail.com"
+    }
+  ],
+  "directories": {}
+}
